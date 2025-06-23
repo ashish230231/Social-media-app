@@ -14,3 +14,10 @@ Technology Stack:
 Backend Framework: Django (Python)
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 
+Usage:
+ Cloning the repo 
+
+Running the server:
+ python.manage.py runserver
+
+
